@@ -1,0 +1,11 @@
+{
+  "name": "aula01-mocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.test.js",
+  "scripts": {
+    "test": "node index.test.js"
+  },
+  "author": "Fabiane Dorneles",
+  "license": "ISC"
+}
