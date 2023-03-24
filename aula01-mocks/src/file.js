@@ -18,7 +18,7 @@ class File {
 
   static isValid(csvString, options = DEFAULT_OPTION) {
     //to se the file content
-    //fs.readFileSynC('./mocks/threeItems-valid.csv', 'utf8')
+    //fs.readFileSync('./mocks/threeItems-valid.csv', 'utf8')
 
     // [0] = header
     // [1] = line 1
