@@ -4,13 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "npx mocha -w --parallel **/**/*.test.js",
+    "test:cov": "npx nyc npx mocha **/**/*.test.js",
     "seed": "node ./seed"
   },
   "keywords": [],
   "author": "Fabiane Dorneles",
   "license": "ISC",
   "devDependencies": {
-    "@faker-js/faker": "^8.0.1"
+    "@faker-js/faker": "^8.0.1",
+    "chai": "^4.3.7",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "sinon": "^9.2.4"
   }
 }

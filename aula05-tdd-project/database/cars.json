@@ -1,1 +1,23 @@
-[{"id":"2b945b1d-6208-413f-bb37-238c818e9851","name":"Camaro","releaseYear":2023,"available":true,"gasAvailable":true},{"id":"b5440f0f-a328-44c0-8d73-f77a8089c36e","name":"Wrangler","releaseYear":2022,"available":true,"gasAvailable":true},{"id":"612178af-8377-4cfc-958e-b4e0a7aeb366","name":"Camaro","releaseYear":2022,"available":true,"gasAvailable":true}]
+[
+  {
+    "id": "e4871148-fef6-48cf-a3fa-ba00b4676a32",
+    "name": "Altima",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "69611a1d-baa3-4613-b5fc-46a608fe8c91",
+    "name": "XC90",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "d9212491-172c-4c50-8499-14df900ac071",
+    "name": "CX-9",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
